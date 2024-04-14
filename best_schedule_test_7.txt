@@ -1,0 +1,19 @@
+Best Schedule is:
+Fitness Score: 11.60000
+
+Activity     Facilitator          Room            Time Slot            Enrollment
+---------------------------------------------------------------------------
+SLA449       Banks                Beach 301       10                   60        
+SLA100B      Lock                 Loft 310        11                   50        
+SLA451       Zeldin               Beach 201       11                   100       
+SLA201       Uther                Beach 301       13                   50        
+SLA394       Banks                Slater 003      13                   20        
+SLA191A      Zeldin               Loft 206        14                   50        
+SLA191B      Tyler                Beach 201       14                   50        
+SLA291       Richards             Slater 003      14                   50        
+SLA303       Glen                 Roman 201       14                   60        
+SLA304       Richards             Beach 201       14                   25        
+SLA100A      Shaw                 Loft 206        15                   50        
+
+---------------------------------------------------------------------------
+
